@@ -7,28 +7,37 @@ Kathy Wang 王梦瑶
 
 王 [wáng]
 
+```
       n.  king; head
+```
+```
       v.  grand; great
+```
+```
       vt. rule over
-      
+```      
+
 梦 [mèng]
 
+```
       n.  dream
-      
+```      
+
 瑶 [yáo]
 
+```
       n.  previous jade
+```
 
 
+  1. a 3rd year CS and Math major at Purdue University
 
-`  1. a 3rd year CS and Math major at Purdue University`
-
-  2. a [`coder`](https://github.com/kathy007) interested in web development, learning new technologies and working on useful/silly projects.
+  2. a [**coder**](https://github.com/kathy007) interested in web development, learning new technologies and working on useful/silly projects.
      [what is useful/silly project? Check my homepage for more information]
 
-  3. a `photographer` who dreamed about owning a Leika S2-P
+  3. a **photographer** who dreamed about owning a Leika S2-P
   
-  4. a `painter` who owes many life lessons to her beloved painting brush.
+  4. a **painter** who owes many life lessons to her beloved painting brush.
   
   5. a [**writer**](https://medium.com/@CoatieWang) who loves ideas and thoughts, and always fascinated about what reading and writing can bring to us.
   
