@@ -26,7 +26,7 @@ Kathy Wang 王梦瑶
   
   4. a **painter** who owes many life lessons to her beloved painting brush.
   
-  5. a **writer** who loves ideas and thoughts, and always fascinated about what reading and writing can bring to us.
+  5. a **[writer]**(https://medium.com/@CoatieWang) who loves ideas and thoughts, and always fascinated about what reading and writing can bring to us.
   
   6. a enthusiastic **learner** who always wanted to learn something she never learned before 
      [eg. started taking piano lessons half a year ago and always imagine herself perform in a solo concerto]
