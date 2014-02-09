@@ -1,0 +1,28 @@
+title:            Kathy Wang
+description:      We are all curious weirdos.
+url:              http://kathywang.me/
+signoff:          Kathy
+disqus_shortname: kathy007
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics:
+
+links:
+  - name:         About
+    url:          /about
+  - name:         GitHub
+    url:          http://github.com/kathy007/
+    external:     true
+  - name:         Twitter
+    url:          http://twitter.com/CoatieWang/
+    external:     true
+  - name:         LinkedIn
+    url:          http://www.linkedin.com/in/kathy007/
+    external:     true
+  - name:         E-Mail
+    external:     true
+    url:          mailto:imdoingmath(at)gmail.com
+pygments:         true
+permalink:        pretty
+markdown:         rdiscount
+rdiscount:
+  extensions:     [smart]
