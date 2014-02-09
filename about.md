@@ -5,16 +5,20 @@ title: About
 
 Kathy Wang 王梦瑶
 
-`王 [wáng]`
-`      n.  king; head`
-`      v.  grand; great`
-`      vt. rule over`
+王 [wáng]
+
+      n.  king; head
+      v.  grand; great
+      vt. rule over
       
-`梦 [mèng]`
-`     n.  dream`
+梦 [mèng]
+
+     n.  dream
       
-`瑶 [yáo]`
-`      n.  previous jade`
+瑶 [yáo]
+
+      n.  previous jade
+
 
 
 `  1. a 3rd year CS and Math major at Purdue University`
