@@ -3,9 +3,33 @@ layout: page
 title: About
 ---
 
-王梦瑶 Kathy Wang
+Kathy Wang 王梦瑶
 
-Hey, I'm Kathy. I'm a 3rd year CS and Math major at Purdue University.
+王 [wáng]
+      n.  king; head    
+      v.  grand; great    
+      vt. rule over
+      
+梦 [mèng]
+      n.  dream
+      
+瑶 [yáo]
+      n.  previous jade
 
-I'm interested in web development, learning new technologies and working on useful/silly projects. 
 
+  1. a 3rd year CS and Math major at Purdue University
+
+  2. a coder interested in web development, learning new technologies and working on useful/silly projects.
+     [what is useful/silly project? Check my homepage for more information]
+
+  3. a photographer who dreamed about owning a Leika S2-P
+  
+  4. a painter who owes many life lessons to her beloved painting brush.
+  
+  5. a writer who loves ideas and thoughts, and always fascinated about what reading and writing can bring to us.
+  
+  6. a enthusiastic learner who always wanted to learn something she never learned before 
+     [eg. started taking piano lessons half a year ago and always imagine herself perform in a solo concerto]
+     [eg. started taking CS courses half a year ago and decided to be a full-time software engineer]  
+
+  7. a dreamer/optimist/workaholics who dedicated to make my life and others' meaningful.
