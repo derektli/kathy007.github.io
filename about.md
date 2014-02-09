@@ -8,9 +8,7 @@ Kathy Wang 王梦瑶
 王 [wáng]
 
       n.  king; head
-      
       v.  grand; great
-      
       vt. rule over
       
 梦 [mèng]
