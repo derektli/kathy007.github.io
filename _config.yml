@@ -4,7 +4,7 @@ url:              http://kathywang.me/
 signoff:          Kathy
 disqus_shortname: kathy007
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics:
+google_analytics: UA-48049606-2
 
 links:
   - name:         About
